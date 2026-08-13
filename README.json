@@ -1,0 +1,499 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telemetry",
+          "description": "dynamic dispatcher for Erlang metrics and instrumentations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-05-11T08:18:30Z",
+            "owner": "beam-telemetry",
+            "repo": "telemetry",
+            "stars": 914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elixometer",
+          "description": "thin Elixir wrapper over Exometer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-07-10T13:11:41Z",
+            "owner": "pinterest",
+            "repo": "elixometer",
+            "stars": 825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folsom",
+          "description": "expose Erlang events as metrics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-11-07T02:47:54Z",
+            "owner": "boundary",
+            "repo": "folsom",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "Prometheus integration for Erlang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-27T13:39:29Z",
+            "owner": "prometheus-erl",
+            "repo": "prometheus.erl",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statix",
+          "description": "fast and reliable Elixir client for StatsD-compatible servers with some DogStatsD extensions (namely tags)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-06-10T19:25:52Z",
+            "owner": "lexmag",
+            "repo": "statix",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vmstats",
+          "description": "tiny Erlang app to generate information on the Erlang VM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-09-11T19:57:34Z",
+            "owner": "ferd",
+            "repo": "vmstats",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exometer",
+          "description": "Erlang instrumentation package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-08-26T17:49:34Z",
+            "owner": "Feuerlabs",
+            "repo": "exometer_core",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telemetry.Poller",
+          "description": "periodically gather measurements and publish them as Telemetry events",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-10-17T20:28:52Z",
+            "owner": "beam-telemetry",
+            "repo": "telemetry_poller",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluxter",
+          "description": "InfluxDB writer for Elixir",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-05-21T11:48:32Z",
+            "owner": "lexmag",
+            "repo": "fluxter",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "generic interface to to a different metrics systems in Erlang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-09-12T09:56:17Z",
+            "owner": "benoitc",
+            "repo": "erlang-metrics",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Metrics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spandex",
+          "description": "tracing library for Elixir which supports DataDog APM. Integrations:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Phoenix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2023-02-10T18:51:10Z",
+                "owner": "spandex-project",
+                "repo": "spandex_phoenix",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ecto",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2024-02-29T16:21:46Z",
+                "owner": "spandex-project",
+                "repo": "spandex_ecto",
+                "stars": 32
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-10-16T18:10:40Z",
+            "owner": "spandex-project",
+            "repo": "spandex",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppSignal",
+          "description": "AppSignal Elixir integration package for gathering metrics, errors, and traces",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-07-09T14:45:38Z",
+            "owner": "appsignal",
+            "repo": "appsignal-elixir",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Relic",
+          "description": "New Relic's Elixir agent supports metrics, errors and distributed tracing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-07-20T17:41:47Z",
+            "owner": "newrelic",
+            "repo": "elixir_agent",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCenus",
+          "description": "implementation of Google's OpenCensus.io tracing and monitoring with broad range of integrations:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elixir",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2022-05-10T21:53:49Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_elixir",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Absinthe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2020-07-30T13:38:05Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_absinthe",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prometheus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2019-01-15T15:31:37Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus-prometheus",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telemetry",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2019-06-18T16:45:25Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_telemetry",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plug",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2021-06-01T10:58:22Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_plug",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Honeycomb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2022-10-19T20:22:46Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_honeycomb",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DataDog APM & DogStatsD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2019-07-15T11:54:35Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_datadog",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elli",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2019-08-16T19:15:01Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_elli",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jaeger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2020-10-21T03:35:28Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus-jaeger",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Reporter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2020-03-26T15:04:24Z",
+                "owner": "opencensus-beam",
+                "repo": "oc_google_reporter",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2019-10-28T16:33:41Z",
+                "owner": "opencensus-beam",
+                "repo": "opencensus_influxdb",
+                "stars": 1
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2023-05-02T19:07:59Z",
+            "owner": "census-instrumentation",
+            "repo": "opencensus-erlang",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Otter",
+          "description": "OpenTracing integration library for Erlang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2021-06-18T08:52:18Z",
+            "owner": "Bluehouse-Technology",
+            "repo": "otter",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracelog",
+          "description": "logging handler that can transform structured logs into distributed tracing spans (for now supports only OpenCensus backend library)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2019-07-22T12:39:33Z",
+            "owner": "opencensus-beam",
+            "repo": "tracelog",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Tracing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "official Elixir SDK for Sentry.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-10T04:33:19Z",
+            "owner": "getsentry",
+            "repo": "sentry-elixir",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rollbar",
+          "description": "exception tracking and logging from Elixir to Rollbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-08-01T16:05:29Z",
+            "owner": "ForzaElixir",
+            "repo": "rollbax",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bugsnag",
+          "description": "Elixir interface to Bugsnag API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2022-07-30T16:14:31Z",
+            "owner": "bugsnag-elixir",
+            "repo": "bugsnag-elixir",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aibrakex",
+          "description": "Elixir client for Airbrake",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-11-15T21:30:59Z",
+            "owner": "fazibear",
+            "repo": "airbrakex",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Errors logging"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:45.327Z",
+    "original_repository": "opencensus-beam/awesome-beam-monitoring",
+    "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",
+    "enhanced_repository": "enhansome/enhansome-beam-monitoring",
+    "enhanced_repository_description": null,
+    "title": "Awesome BEAM Monitoring with stars"
+  }
+}

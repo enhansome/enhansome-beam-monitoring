@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-13T11:26:09Z",
+            "last_commit": "2026-08-13T14:45:24Z",
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 691
@@ -489,7 +489,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:55:08.512Z",
+    "last_updated": "2026-08-14T11:52:16.349Z",
     "original_repository": "opencensus-beam/awesome-beam-monitoring",
     "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",
     "enhanced_repository": "enhansome/enhansome-beam-monitoring",

@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143751561,
             "language": "Erlang",
             "last_commit": "2026-05-11T08:18:30Z",
             "owner": "beam-telemetry",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40680676,
             "language": "Elixir",
             "last_commit": "2023-07-10T13:11:41Z",
             "owner": "pinterest",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1493089,
             "language": "Erlang",
             "last_commit": "2018-11-07T02:47:54Z",
             "owner": "boundary",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57977746,
             "language": "Erlang",
             "last_commit": "2026-07-27T13:39:29Z",
             "owner": "prometheus-erl",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35518831,
             "language": "Elixir",
             "last_commit": "2024-06-10T19:25:52Z",
             "owner": "lexmag",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3563867,
             "language": "Erlang",
             "last_commit": "2025-09-11T19:57:34Z",
             "owner": "ferd",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26772418,
             "language": "Erlang",
             "last_commit": "2025-08-26T17:49:34Z",
             "owner": "Feuerlabs",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146449250,
             "language": "Erlang",
             "last_commit": "2025-10-17T20:28:52Z",
             "owner": "beam-telemetry",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52401197,
             "language": "Elixir",
             "last_commit": "2025-05-21T11:48:32Z",
             "owner": "lexmag",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47516469,
             "language": "Erlang",
             "last_commit": "2018-09-12T09:56:17Z",
             "owner": "benoitc",
@@ -147,7 +157,7 @@
       "title": "Metrics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -161,6 +171,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 148806824,
                 "language": "Elixir",
                 "last_commit": "2023-02-10T18:51:10Z",
                 "owner": "spandex-project",
@@ -175,6 +186,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 145861899,
                 "language": "Elixir",
                 "last_commit": "2024-02-29T16:21:46Z",
                 "owner": "spandex-project",
@@ -185,6 +197,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 94697872,
             "language": "Elixir",
             "last_commit": "2023-10-16T18:10:40Z",
             "owner": "spandex-project",
@@ -199,6 +212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63960295,
             "language": "Elixir",
             "last_commit": "2026-07-09T14:45:38Z",
             "owner": "appsignal",
@@ -213,6 +227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144901017,
             "language": "Elixir",
             "last_commit": "2026-07-20T17:41:47Z",
             "owner": "newrelic",
@@ -232,6 +247,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 161716351,
                 "language": "Elixir",
                 "last_commit": "2022-05-10T21:53:49Z",
                 "owner": "opencensus-beam",
@@ -246,6 +262,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184836859,
                 "language": "Elixir",
                 "last_commit": "2020-07-30T13:38:05Z",
                 "owner": "opencensus-beam",
@@ -260,6 +277,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 105520828,
                 "language": "Erlang",
                 "last_commit": "2019-01-15T15:31:37Z",
                 "owner": "opencensus-beam",
@@ -274,6 +292,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160425209,
                 "language": "Erlang",
                 "last_commit": "2019-06-18T16:45:25Z",
                 "owner": "opencensus-beam",
@@ -288,6 +307,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160407399,
                 "language": "Elixir",
                 "last_commit": "2021-06-01T10:58:22Z",
                 "owner": "opencensus-beam",
@@ -302,6 +322,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 187213388,
                 "language": "Elixir",
                 "last_commit": "2022-10-19T20:22:46Z",
                 "owner": "opencensus-beam",
@@ -316,6 +337,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160278009,
                 "language": "Erlang",
                 "last_commit": "2019-07-15T11:54:35Z",
                 "owner": "opencensus-beam",
@@ -330,6 +352,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104487243,
                 "language": "Erlang",
                 "last_commit": "2019-08-16T19:15:01Z",
                 "owner": "opencensus-beam",
@@ -344,6 +367,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 182572720,
                 "language": "Erlang",
                 "last_commit": "2020-10-21T03:35:28Z",
                 "owner": "opencensus-beam",
@@ -358,6 +382,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104490011,
                 "language": "Erlang",
                 "last_commit": "2020-03-26T15:04:24Z",
                 "owner": "opencensus-beam",
@@ -372,6 +397,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160673898,
                 "language": "Erlang",
                 "last_commit": "2019-10-28T16:33:41Z",
                 "owner": "opencensus-beam",
@@ -382,6 +408,7 @@
           ],
           "repo_info": {
             "archived": true,
+            "id": 101322750,
             "language": "Erlang",
             "last_commit": "2023-05-02T19:07:59Z",
             "owner": "census-instrumentation",
@@ -396,6 +423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77677971,
             "language": "Erlang",
             "last_commit": "2021-06-18T08:52:18Z",
             "owner": "Bluehouse-Technology",
@@ -410,6 +438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158985789,
             "language": "Erlang",
             "last_commit": "2019-07-22T12:39:33Z",
             "owner": "opencensus-beam",
@@ -421,7 +450,7 @@
       "title": "Tracing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -430,6 +459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22933562,
             "language": "Elixir",
             "last_commit": "2026-08-17T08:46:34Z",
             "owner": "getsentry",
@@ -444,6 +474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40178027,
             "language": "Elixir",
             "last_commit": "2024-08-01T16:05:29Z",
             "owner": "ForzaElixir",
@@ -458,6 +489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21985354,
             "language": "Elixir",
             "last_commit": "2022-07-30T16:14:31Z",
             "owner": "bugsnag-elixir",
@@ -472,6 +504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41876201,
             "language": "Elixir",
             "last_commit": "2023-11-15T21:30:59Z",
             "owner": "fazibear",
@@ -481,15 +514,10 @@
         }
       ],
       "title": "Errors logging"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:33:54.564Z",
+    "last_updated": "2026-08-19T11:34:08.111Z",
     "original_repository": "opencensus-beam/awesome-beam-monitoring",
     "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",
     "enhanced_repository": "enhansome/enhansome-beam-monitoring",

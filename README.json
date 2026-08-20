@@ -15,7 +15,7 @@
             "last_commit": "2026-05-11T08:18:30Z",
             "owner": "beam-telemetry",
             "repo": "telemetry",
-            "stars": 914
+            "stars": 915
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-10-17T20:28:52Z",
             "owner": "beam-telemetry",
             "repo": "telemetry_poller",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -461,10 +461,10 @@
             "archived": false,
             "id": 22933562,
             "language": "Elixir",
-            "last_commit": "2026-08-17T08:46:34Z",
+            "last_commit": "2026-08-20T11:28:31Z",
             "owner": "getsentry",
             "repo": "sentry-elixir",
-            "stars": 692
+            "stars": 693
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2022-07-30T16:14:31Z",
             "owner": "bugsnag-elixir",
             "repo": "bugsnag-elixir",
-            "stars": 94
+            "stars": 93
           }
         },
         {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:42.167Z",
+    "last_updated": "2026-08-20T11:36:04.975Z",
     "original_repository": "opencensus-beam/awesome-beam-monitoring",
     "original_repository_id": 167585589,
     "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",

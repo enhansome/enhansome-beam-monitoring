@@ -22,14 +22,14 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Metrics
 
-* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 914 | 🐛 8 | 🌐 Erlang | 📅 2026-05-11 - dynamic dispatcher for Erlang metrics and instrumentations
+* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 915 | 🐛 8 | 🌐 Erlang | 📅 2026-05-11 - dynamic dispatcher for Erlang metrics and instrumentations
 * [Elixometer](https://github.com/pinterest/elixometer) ⭐ 825 | 🐛 11 | 🌐 Elixir | 📅 2023-07-10 - thin Elixir wrapper over Exometer
 * [Folsom](https://github.com/boundary/folsom) ⭐ 583 | 🐛 14 | 🌐 Erlang | 📅 2018-11-07 - expose Erlang events as metrics
 * [Prometheus](https://github.com/deadtrickster/prometheus.erl) ⭐ 354 | 🐛 13 | 🌐 Erlang | 📅 2026-07-27 - Prometheus integration for Erlang
 * [Statix](https://github.com/lexmag/statix) ⭐ 286 | 🐛 17 | 🌐 Elixir | 📅 2024-06-10 - fast and reliable Elixir client for StatsD-compatible servers with some DogStatsD extensions (namely tags)
 * [vmstats](https://github.com/ferd/vmstats) ⭐ 256 | 🐛 1 | 🌐 Erlang | 📅 2025-09-11 - tiny Erlang app to generate information on the Erlang VM
 * [Exometer](https://github.com/Feuerlabs/exometer_core) ⭐ 194 | 🐛 22 | 🌐 Erlang | 📅 2025-08-26 - Erlang instrumentation package
-* [Telemetry.Poller](https://github.com/beam-telemetry/telemetry_poller) ⭐ 126 | 🐛 0 | 🌐 Erlang | 📅 2025-10-17 - periodically gather measurements and publish them as Telemetry events
+* [Telemetry.Poller](https://github.com/beam-telemetry/telemetry_poller) ⭐ 127 | 🐛 0 | 🌐 Erlang | 📅 2025-10-17 - periodically gather measurements and publish them as Telemetry events
 * [Fluxter](https://github.com/lexmag/fluxter) ⭐ 106 | 🐛 7 | 🌐 Elixir | 📅 2025-05-21 - InfluxDB writer for Elixir
 * [`metrics`](https://github.com/benoitc/erlang-metrics) ⭐ 70 | 🐛 3 | 🌐 Erlang | 📅 2018-09-12 - generic interface to to a different metrics systems in Erlang
 
@@ -64,9 +64,9 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Errors logging
 
-* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 692 | 🐛 24 | 🌐 Elixir | 📅 2026-08-17 - official Elixir SDK for Sentry.io
+* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 693 | 🐛 14 | 🌐 Elixir | 📅 2026-08-20 - official Elixir SDK for Sentry.io
 * [Rollbar](https://github.com/ForzaElixir/rollbax) ⭐ 240 | 🐛 8 | 🌐 Elixir | 📅 2024-08-01 - exception tracking and logging from Elixir to Rollbar
-* [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) ⭐ 94 | 🐛 13 | 🌐 Elixir | 📅 2022-07-30 - Elixir interface to Bugsnag API
+* [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) ⭐ 93 | 🐛 13 | 🌐 Elixir | 📅 2022-07-30 - Elixir interface to Bugsnag API
 * [Aibrakex](https://github.com/fazibear/airbrakex) ⭐ 29 | 🐛 6 | 🌐 Elixir | 📅 2023-11-15 - Elixir client for Airbrake
 
 ## License
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

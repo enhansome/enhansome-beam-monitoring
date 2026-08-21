@@ -461,10 +461,10 @@
             "archived": false,
             "id": 22933562,
             "language": "Elixir",
-            "last_commit": "2026-08-20T11:28:31Z",
+            "last_commit": "2026-08-21T11:12:15Z",
             "owner": "getsentry",
             "repo": "sentry-elixir",
-            "stars": 693
+            "stars": 694
           }
         },
         {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:36:04.975Z",
+    "last_updated": "2026-08-21T11:34:47.114Z",
     "original_repository": "opencensus-beam/awesome-beam-monitoring",
     "original_repository_id": 167585589,
     "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",

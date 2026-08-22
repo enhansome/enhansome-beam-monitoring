@@ -12,7 +12,7 @@
             "archived": false,
             "id": 143751561,
             "language": "Erlang",
-            "last_commit": "2026-05-11T08:18:30Z",
+            "last_commit": "2026-08-22T10:18:03Z",
             "owner": "beam-telemetry",
             "repo": "telemetry",
             "stars": 915
@@ -461,7 +461,7 @@
             "archived": false,
             "id": 22933562,
             "language": "Elixir",
-            "last_commit": "2026-08-21T11:12:15Z",
+            "last_commit": "2026-08-21T13:10:30Z",
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 694
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:34:47.114Z",
+    "last_updated": "2026-08-22T11:29:41.572Z",
     "original_repository": "opencensus-beam/awesome-beam-monitoring",
     "original_repository_id": 167585589,
     "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",

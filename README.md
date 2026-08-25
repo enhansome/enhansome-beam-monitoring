@@ -41,7 +41,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
   * [Ecto](https://github.com/spandex-project/spandex_ecto) ⭐ 32 | 🐛 5 | 🌐 Elixir | 📅 2024-02-29
 * [AppSignal](https://github.com/appsignal/appsignal-elixir) ⭐ 292 | 🐛 16 | 🌐 Elixir | 📅 2026-07-09 - AppSignal
   Elixir integration package for gathering metrics, errors, and traces
-* [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 268 | 🐛 8 | 🌐 Elixir | 📅 2026-07-20 - New Relic's Elixir agent supports metrics, errors and distributed tracing
+* [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 268 | 🐛 9 | 🌐 Elixir | 📅 2026-07-20 - New Relic's Elixir agent supports metrics, errors and distributed tracing
 * [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) ⚠️ Archived -
   implementation of Google's [OpenCensus.io](https://opencensus.io) tracing and
   monitoring with broad range of integrations:
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

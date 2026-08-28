@@ -12,7 +12,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Logging
 
-* [`lager`](https://github.com/erlang-lager/lager) ⭐ 1,130 | 🐛 52 | 🌐 Erlang | 📅 2025-08-26 - popular logging framework
+* [`lager`](https://github.com/erlang-lager/lager) ⭐ 1,131 | 🐛 52 | 🌐 Erlang | 📅 2025-08-26 - popular logging framework
   with broad features set
 * [`logger`](http://www.erlang.org/doc/man/logger.html) - OTP 21+ built-in
   pluggable logger module
@@ -22,7 +22,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Metrics
 
-* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 916 | 🐛 6 | 🌐 Erlang | 📅 2026-08-22 - dynamic dispatcher for Erlang metrics and instrumentations
+* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 917 | 🐛 6 | 🌐 Erlang | 📅 2026-08-22 - dynamic dispatcher for Erlang metrics and instrumentations
 * [Elixometer](https://github.com/pinterest/elixometer) ⭐ 825 | 🐛 11 | 🌐 Elixir | 📅 2023-07-10 - thin Elixir wrapper over Exometer
 * [Folsom](https://github.com/boundary/folsom) ⭐ 583 | 🐛 14 | 🌐 Erlang | 📅 2018-11-07 - expose Erlang events as metrics
 * [Prometheus](https://github.com/deadtrickster/prometheus.erl) ⭐ 354 | 🐛 13 | 🌐 Erlang | 📅 2026-07-27 - Prometheus integration for Erlang
@@ -35,7 +35,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Tracing
 
-* [Spandex](https://github.com/spandex-project/spandex) ⭐ 347 | 🐛 19 | 🌐 Elixir | 📅 2023-10-16 - tracing library for
+* [Spandex](https://github.com/spandex-project/spandex) ⭐ 346 | 🐛 19 | 🌐 Elixir | 📅 2023-10-16 - tracing library for
   Elixir which supports DataDog APM. Integrations:
   * [Phoenix](https://github.com/spandex-project/spandex_phoenix) ⭐ 85 | 🐛 8 | 🌐 Elixir | 📅 2023-02-10
   * [Ecto](https://github.com/spandex-project/spandex_ecto) ⭐ 32 | 🐛 5 | 🌐 Elixir | 📅 2024-02-29
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

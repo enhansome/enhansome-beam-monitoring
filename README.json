@@ -15,8 +15,9 @@
             "last_commit": "2026-08-22T10:18:03Z",
             "owner": "beam-telemetry",
             "repo": "telemetry",
-            "stars": 916
-          }
+            "stars": 917
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pinterest",
             "repo": "elixometer",
             "stars": 825
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "boundary",
             "repo": "folsom",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "prometheus-erl",
             "repo": "prometheus.erl",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "lexmag",
             "repo": "statix",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "ferd",
             "repo": "vmstats",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Feuerlabs",
             "repo": "exometer_core",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "beam-telemetry",
             "repo": "telemetry_poller",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "lexmag",
             "repo": "fluxter",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "benoitc",
             "repo": "erlang-metrics",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         }
       ],
       "title": "Metrics"
@@ -177,7 +187,8 @@
                 "owner": "spandex-project",
                 "repo": "spandex_phoenix",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -192,7 +203,8 @@
                 "owner": "spandex-project",
                 "repo": "spandex_ecto",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             }
           ],
           "repo_info": {
@@ -202,8 +214,9 @@
             "last_commit": "2023-10-16T18:10:40Z",
             "owner": "spandex-project",
             "repo": "spandex",
-            "stars": 347
-          }
+            "stars": 346
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -218,7 +231,8 @@
             "owner": "appsignal",
             "repo": "appsignal-elixir",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -233,7 +247,8 @@
             "owner": "newrelic",
             "repo": "elixir_agent",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_elixir",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -268,7 +284,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_absinthe",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -283,7 +300,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus-prometheus",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -298,7 +316,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_telemetry",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -313,7 +332,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_plug",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -328,7 +348,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_honeycomb",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -343,7 +364,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_datadog",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -358,7 +380,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_elli",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -373,7 +396,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus-jaeger",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -388,7 +412,8 @@
                 "owner": "opencensus-beam",
                 "repo": "oc_google_reporter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             },
             {
               "node_type": "item",
@@ -403,7 +428,8 @@
                 "owner": "opencensus-beam",
                 "repo": "opencensus_influxdb",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.455Z"
             }
           ],
           "repo_info": {
@@ -414,7 +440,8 @@
             "owner": "census-instrumentation",
             "repo": "opencensus-erlang",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -429,7 +456,8 @@
             "owner": "Bluehouse-Technology",
             "repo": "otter",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -444,7 +472,8 @@
             "owner": "opencensus-beam",
             "repo": "tracelog",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         }
       ],
       "title": "Tracing"
@@ -465,7 +494,8 @@
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 694
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -480,7 +510,8 @@
             "owner": "ForzaElixir",
             "repo": "rollbax",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -495,7 +526,8 @@
             "owner": "bugsnag-elixir",
             "repo": "bugsnag-elixir",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         },
         {
           "node_type": "item",
@@ -510,14 +542,15 @@
             "owner": "fazibear",
             "repo": "airbrakex",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.455Z"
         }
       ],
       "title": "Errors logging"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:58:51.241Z",
+    "last_updated": "2026-08-28T21:21:10.455Z",
     "original_repository_info": {
       "archived": false,
       "id": 167585589,

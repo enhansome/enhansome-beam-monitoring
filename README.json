@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic dispatching library for metrics and instrumentations.",
+            "homepage": "https://hexdocs.pm/telemetry",
             "id": 143751561,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T10:18:03Z",
+            "open_issues": 6,
             "owner": "beam-telemetry",
             "repo": "telemetry",
-            "stars": 917
+            "stars": 917,
+            "topics": [
+              "elixir",
+              "events",
+              "instrumentation",
+              "metrics"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -26,12 +36,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light Elixir wrapper around exometer.",
+            "homepage": "https://hexdocs.pm/elixometer",
             "id": 40680676,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-10T13:11:41Z",
+            "open_issues": 11,
             "owner": "pinterest",
             "repo": "elixometer",
-            "stars": 825
+            "stars": 825,
+            "topics": [
+              "elixir",
+              "exometer",
+              "metrics"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose Erlang Events and Metrics",
+            "homepage": null,
             "id": 1493089,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-07T02:47:54Z",
+            "open_issues": 14,
             "owner": "boundary",
             "repo": "folsom",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -58,12 +82,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prometheus.io client in Erlang",
+            "homepage": null,
             "id": 57977746,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-07-27T13:39:29Z",
+            "open_issues": 13,
             "owner": "prometheus-erl",
             "repo": "prometheus.erl",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "erlang",
+              "instrumentation",
+              "metrics",
+              "monitoring",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -74,12 +109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and reliable Elixir client for StatsD-compatible servers",
+            "homepage": "https://hexdocs.pm/statix",
             "id": 35518831,
             "language": "Elixir",
+            "license": "ISC",
             "last_commit": "2024-06-10T19:25:52Z",
+            "open_issues": 17,
             "owner": "lexmag",
             "repo": "statix",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "elixir",
+              "instrumentation",
+              "metrics",
+              "statsd"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -90,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tiny Erlang app to generate information on the Erlang VM",
+            "homepage": null,
             "id": 3563867,
             "language": "Erlang",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-11T19:57:34Z",
+            "open_issues": 1,
             "owner": "ferd",
             "repo": "vmstats",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -106,12 +156,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core components of exometer",
+            "homepage": null,
             "id": 26772418,
             "language": "Erlang",
+            "license": "MPL-2.0",
             "last_commit": "2025-08-26T17:49:34Z",
+            "open_issues": 22,
             "owner": "Feuerlabs",
             "repo": "exometer_core",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "erlang"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -122,12 +179,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Periodically gather measurements and publish them as Telemetry events",
+            "homepage": "https://hexdocs.pm/telemetry_poller",
             "id": 146449250,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-17T20:28:52Z",
+            "open_issues": 0,
             "owner": "beam-telemetry",
             "repo": "telemetry_poller",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "elixir",
+              "events",
+              "instrumentation",
+              "metrics"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -138,12 +205,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance and reliable InfluxDB writer for Elixir",
+            "homepage": "https://hexdocs.pm/fluxter",
             "id": 52401197,
             "language": "Elixir",
+            "license": "ISC",
             "last_commit": "2025-05-21T11:48:32Z",
+            "open_issues": 7,
             "owner": "lexmag",
             "repo": "fluxter",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "elixir",
+              "influxdb",
+              "instrumentation",
+              "metrics"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -154,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic interface to different metrics systems in Erlang.",
+            "homepage": null,
             "id": 47516469,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-12T09:56:17Z",
+            "open_issues": 3,
             "owner": "benoitc",
             "repo": "erlang-metrics",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         }
@@ -181,12 +263,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phoenix Instrumentation tracer",
+                "homepage": null,
                 "id": 148806824,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2023-02-10T18:51:10Z",
+                "open_issues": 8,
                 "owner": "spandex-project",
                 "repo": "spandex_phoenix",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -197,24 +286,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for integrating Ecto with Spandex",
+                "homepage": null,
                 "id": 145861899,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2024-02-29T16:21:46Z",
+                "open_issues": 5,
                 "owner": "spandex-project",
                 "repo": "spandex_ecto",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A platform agnostic tracing library",
+            "homepage": null,
             "id": 94697872,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2023-10-16T18:10:40Z",
+            "open_issues": 19,
             "owner": "spandex-project",
             "repo": "spandex",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -225,12 +328,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🟪 AppSignal for Elixir package",
+            "homepage": "https://www.appsignal.com/elixir",
             "id": 63960295,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-07-09T14:45:38Z",
+            "open_issues": 16,
             "owner": "appsignal",
             "repo": "appsignal-elixir",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "apm",
+              "appsignal",
+              "custom-instrumentation",
+              "custom-metrics",
+              "elixir",
+              "error-monitoring",
+              "host-metrics",
+              "performance-monitoring",
+              "phoenix",
+              "plug"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -241,12 +360,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "New Relic's Open Source Elixir Agent",
+            "homepage": "https://hex.pm/packages/new_relic_agent",
             "id": 144901017,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T17:41:47Z",
+            "open_issues": 9,
             "owner": "newrelic",
             "repo": "elixir_agent",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "elixir",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -262,12 +389,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 161716351,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-10T21:53:49Z",
+                "open_issues": 5,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_elixir",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "apm",
+                  "elixir",
+                  "opencensus",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -278,12 +415,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opencensus integration with Absinthe",
+                "homepage": null,
                 "id": 184836859,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-30T13:38:05Z",
+                "open_issues": 12,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_absinthe",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "absinthe",
+                  "elixir",
+                  "opencensus",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -294,12 +441,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export opencensus span metrics and statistics to Prometheus",
+                "homepage": null,
                 "id": 105520828,
                 "language": "Erlang",
+                "license": "MIT",
                 "last_commit": "2019-01-15T15:31:37Z",
+                "open_issues": 1,
                 "owner": "opencensus-beam",
                 "repo": "opencensus-prometheus",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "erlang",
+                  "metrics",
+                  "opencensus",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -310,12 +467,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opencensus integration with Telemetry library",
+                "homepage": null,
                 "id": 160425209,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-18T16:45:25Z",
+                "open_issues": 1,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_telemetry",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "elixir",
+                  "erlang",
+                  "metrics",
+                  "opencensus",
+                  "telemetry"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -326,12 +494,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opencensus integration with Elixir's Plug library",
+                "homepage": null,
                 "id": 160407399,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-01T10:58:22Z",
+                "open_issues": 4,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_plug",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "elixir",
+                  "elixir-plug",
+                  "metrics",
+                  "opencensus",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -342,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opencensus integration with Honeycomb",
+                "homepage": null,
                 "id": 187213388,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-19T20:22:46Z",
+                "open_issues": 2,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_honeycomb",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -358,12 +542,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export opencensus span metrics and statistics to Datadog",
+                "homepage": null,
                 "id": 160278009,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-15T11:54:35Z",
+                "open_issues": 1,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_datadog",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "apm",
+                  "datadog",
+                  "datadog-apm",
+                  "erlang",
+                  "metrics",
+                  "opencensus"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -374,12 +570,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenCensus instrumentation",
+                "homepage": null,
                 "id": 104487243,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-16T19:15:01Z",
+                "open_issues": 0,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_elli",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "elli",
+                  "erlang",
+                  "metrics",
+                  "opencensus",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -390,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 182572720,
                 "language": "Erlang",
+                "license": "MIT",
                 "last_commit": "2020-10-21T03:35:28Z",
+                "open_issues": 3,
                 "owner": "opencensus-beam",
                 "repo": "opencensus-jaeger",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -406,12 +618,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Trace v1 reporter for opencensus-erlang",
+                "homepage": null,
                 "id": 104490011,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-26T15:04:24Z",
+                "open_issues": 1,
                 "owner": "opencensus-beam",
                 "repo": "oc_google_reporter",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "erlang",
+                  "google-trace",
+                  "metrics",
+                  "opencensus",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             },
@@ -422,24 +645,47 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opencensus status exporter for InfluxDB format",
+                "homepage": null,
                 "id": 160673898,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-28T16:33:41Z",
+                "open_issues": 1,
                 "owner": "opencensus-beam",
                 "repo": "opencensus_influxdb",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "erlang",
+                  "influxdb",
+                  "metrics",
+                  "opencensus",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:10.455Z"
             }
           ],
           "repo_info": {
             "archived": true,
+            "description": "A stats collection and distributed tracing framework",
+            "homepage": "https://opencensus.io",
             "id": 101322750,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-02T19:07:59Z",
+            "open_issues": 37,
             "owner": "census-instrumentation",
             "repo": "opencensus-erlang",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "cloud",
+              "erlang",
+              "monitoring",
+              "opencensus",
+              "stats",
+              "trace"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -450,12 +696,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for OpenTracing in Erlang",
+            "homepage": "https://hexdocs.pm/otter/",
             "id": 77677971,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-18T08:52:18Z",
+            "open_issues": 2,
             "owner": "Bluehouse-Technology",
             "repo": "otter",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "erlang",
+              "opentracing",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -466,12 +721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A logging handler that can transforms structured logs into opencensus distributed tracing spans",
+            "homepage": null,
             "id": 158985789,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-22T12:39:33Z",
+            "open_issues": 1,
             "owner": "opencensus-beam",
             "repo": "tracelog",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         }
@@ -488,12 +748,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Elixir SDK for Sentry (sentry.io)",
+            "homepage": "https://sentry.io",
             "id": 22933562,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:18:13Z",
+            "open_issues": 17,
             "owner": "getsentry",
             "repo": "sentry-elixir",
-            "stars": 694
+            "stars": 694,
+            "topics": [
+              "hacktoberfest",
+              "sdk",
+              "tag-production",
+              "team-web-backend"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -504,12 +774,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exception tracking and logging from Elixir to Rollbar",
+            "homepage": "https://hexdocs.pm/rollbax",
             "id": 40178027,
             "language": "Elixir",
+            "license": "ISC",
             "last_commit": "2024-08-01T16:05:29Z",
+            "open_issues": 8,
             "owner": "ForzaElixir",
             "repo": "rollbax",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "elixir",
+              "rollbar"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -520,12 +798,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Elixir interface to the Bugsnag API",
+            "homepage": "https://hex.pm/packages/bugsnag",
             "id": 21985354,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2022-07-30T16:14:31Z",
+            "open_issues": 13,
             "owner": "bugsnag-elixir",
             "repo": "bugsnag-elixir",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         },
@@ -536,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elixir client for the Airbrake service.",
+            "homepage": null,
             "id": 41876201,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2023-11-15T21:30:59Z",
+            "open_issues": 6,
             "owner": "fazibear",
             "repo": "airbrakex",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.455Z"
         }
@@ -550,15 +840,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:10.455Z",
+    "last_updated": "2026-08-29T05:03:33.291Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome BEAM monitoring libraries and resources",
+      "homepage": null,
       "id": 167585589,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2019-05-20T10:46:41Z",
+      "open_issues": 0,
       "owner": "opencensus-beam",
       "repo": "awesome-beam-monitoring",
-      "stars": 62
+      "stars": 62,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "elixir",
+        "elixir-lang",
+        "logging",
+        "monitoring",
+        "tracing"
+      ]
     },
     "original_repository_sha": "f2c61451340ae69464ffbd3a8371362a679932bb",
     "enhanced_repository": "enhansome/enhansome-beam-monitoring",

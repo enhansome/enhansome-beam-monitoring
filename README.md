@@ -22,7 +22,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Metrics
 
-* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 918 | 🐛 6 | 🌐 Erlang | 📅 2026-08-22 - dynamic dispatcher for Erlang metrics and instrumentations
+* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 919 | 🐛 6 | 🌐 Erlang | 📅 2026-08-22 - dynamic dispatcher for Erlang metrics and instrumentations
 * [Elixometer](https://github.com/pinterest/elixometer) ⭐ 825 | 🐛 11 | 🌐 Elixir | 📅 2023-07-10 - thin Elixir wrapper over Exometer
 * [Folsom](https://github.com/boundary/folsom) ⭐ 583 | 🐛 14 | 🌐 Erlang | 📅 2018-11-07 - expose Erlang events as metrics
 * [Prometheus](https://github.com/deadtrickster/prometheus.erl) ⭐ 354 | 🐛 13 | 🌐 Erlang | 📅 2026-07-27 - Prometheus integration for Erlang
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

@@ -753,8 +753,8 @@
             "id": 22933562,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-08-24T04:18:13Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-31T14:29:21Z",
+            "open_issues": 16,
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 694,
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:18:30.701Z",
+    "last_updated": "2026-08-31T17:58:26.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",

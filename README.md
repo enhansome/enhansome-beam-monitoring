@@ -41,7 +41,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
   * [Ecto](https://github.com/spandex-project/spandex_ecto) ⭐ 32 | 🐛 5 | 🌐 Elixir | 📅 2024-02-29
 * [AppSignal](https://github.com/appsignal/appsignal-elixir) ⭐ 292 | 🐛 17 | 🌐 Elixir | 📅 2026-09-14 - AppSignal
   Elixir integration package for gathering metrics, errors, and traces
-* [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 268 | 🐛 9 | 🌐 Elixir | 📅 2026-07-20 - New Relic's Elixir agent supports metrics, errors and distributed tracing
+* [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 268 | 🐛 10 | 🌐 Elixir | 📅 2026-09-17 - New Relic's Elixir agent supports metrics, errors and distributed tracing
 * [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) ⚠️ Archived -
   implementation of Google's [OpenCensus.io](https://opencensus.io) tracing and
   monitoring with broad range of integrations:
@@ -64,7 +64,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Errors logging
 
-* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 694 | 🐛 19 | 🌐 Elixir | 📅 2026-09-17 - official Elixir SDK for Sentry.io
+* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 694 | 🐛 20 | 🌐 Elixir | 📅 2026-09-18 - official Elixir SDK for Sentry.io
 * [Rollbar](https://github.com/ForzaElixir/rollbax) ⭐ 240 | 🐛 8 | 🌐 Elixir | 📅 2024-08-01 - exception tracking and logging from Elixir to Rollbar
 * [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) ⭐ 93 | 🐛 13 | 🌐 Elixir | 📅 2022-07-30 - Elixir interface to Bugsnag API
 * [Aibrakex](https://github.com/fazibear/airbrakex) ⭐ 29 | 🐛 6 | 🌐 Elixir | 📅 2023-11-15 - Elixir client for Airbrake
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

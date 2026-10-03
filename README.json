@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "Phoenix",
-              "description": null,
+              "description": "spandex-project/spandex_phoenix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -282,7 +282,7 @@
             {
               "node_type": "item",
               "title": "Ecto",
-              "description": null,
+              "description": "spandex-project/spandex_ecto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "Elixir",
-              "description": null,
+              "description": "opencensus-beam/opencensus_elixir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -411,7 +411,7 @@
             {
               "node_type": "item",
               "title": "Absinthe",
-              "description": null,
+              "description": "opencensus-beam/opencensus_absinthe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -437,7 +437,7 @@
             {
               "node_type": "item",
               "title": "Prometheus",
-              "description": null,
+              "description": "opencensus-beam/opencensus-prometheus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -463,7 +463,7 @@
             {
               "node_type": "item",
               "title": "Telemetry",
-              "description": null,
+              "description": "opencensus-beam/opencensus_telemetry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "Plug",
-              "description": null,
+              "description": "opencensus-beam/opencensus_plug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "Honeycomb",
-              "description": null,
+              "description": "opencensus-beam/opencensus_honeycomb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "DataDog APM & DogStatsD",
-              "description": null,
+              "description": "opencensus-beam/opencensus_datadog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,7 +566,7 @@
             {
               "node_type": "item",
               "title": "Elli",
-              "description": null,
+              "description": "opencensus-beam/opencensus_elli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "Jaeger",
-              "description": null,
+              "description": "opencensus-beam/opencensus-jaeger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "Google Reporter",
-              "description": null,
+              "description": "opencensus-beam/oc_google_reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
             {
               "node_type": "item",
               "title": "InfluxDB",
-              "description": null,
+              "description": "opencensus-beam/opencensus_influxdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -753,8 +753,8 @@
             "id": 22933562,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:19:57Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-03T00:04:08Z",
+            "open_issues": 16,
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 694,
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:35:53.010Z",
+    "last_updated": "2026-10-03T04:36:24.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",

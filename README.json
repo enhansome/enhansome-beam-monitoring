@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "beam-telemetry",
             "repo": "telemetry",
-            "stars": 923,
+            "stars": 922,
             "topics": [
               "elixir",
               "events",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:07:31.569Z",
+    "last_updated": "2026-10-04T15:45:42.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",

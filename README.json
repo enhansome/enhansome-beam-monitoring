@@ -91,7 +91,7 @@
             "open_issues": 13,
             "owner": "prometheus-erl",
             "repo": "prometheus.erl",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "erlang",
               "instrumentation",
@@ -333,8 +333,8 @@
             "id": 63960295,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-10-08T07:29:29Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-09T13:47:15Z",
+            "open_issues": 17,
             "owner": "appsignal",
             "repo": "appsignal-elixir",
             "stars": 292,
@@ -757,7 +757,7 @@
             "open_issues": 17,
             "owner": "getsentry",
             "repo": "sentry-elixir",
-            "stars": 694,
+            "stars": 693,
             "topics": [
               "hacktoberfest",
               "sdk",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:49:58.275Z",
+    "last_updated": "2026-10-09T17:24:46.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",

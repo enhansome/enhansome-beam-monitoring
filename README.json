@@ -333,8 +333,8 @@
             "id": 63960295,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-10-14T14:41:20Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-15T15:26:17Z",
+            "open_issues": 22,
             "owner": "appsignal",
             "repo": "appsignal-elixir",
             "stars": 292,
@@ -753,8 +753,8 @@
             "id": 22933562,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:41:50Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-15T10:57:59Z",
+            "open_issues": 21,
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 693,
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:47:30.522Z",
+    "last_updated": "2026-10-15T15:33:44.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",

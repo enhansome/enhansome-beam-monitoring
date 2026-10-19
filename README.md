@@ -22,7 +22,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Metrics
 
-* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 922 | 🐛 6 | 🌐 Erlang | 📅 2026-09-30 - dynamic dispatcher for Erlang metrics and instrumentations
+* [Telemetry](https://github.com/beam-telemetry/telemetry) ⭐ 923 | 🐛 6 | 🌐 Erlang | 📅 2026-09-30 - dynamic dispatcher for Erlang metrics and instrumentations
 * [Elixometer](https://github.com/pinterest/elixometer) ⭐ 825 | 🐛 11 | 🌐 Elixir | 📅 2023-07-10 - thin Elixir wrapper over Exometer
 * [Folsom](https://github.com/boundary/folsom) ⭐ 583 | 🐛 14 | 🌐 Erlang | 📅 2018-11-07 - expose Erlang events as metrics
 * [Prometheus](https://github.com/deadtrickster/prometheus.erl) ⭐ 355 | 🐛 13 | 🌐 Erlang | 📅 2026-07-27 - Prometheus integration for Erlang
@@ -39,7 +39,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
   Elixir which supports DataDog APM. Integrations:
   * [Phoenix](https://github.com/spandex-project/spandex_phoenix) ⭐ 85 | 🐛 8 | 🌐 Elixir | 📅 2023-02-10
   * [Ecto](https://github.com/spandex-project/spandex_ecto) ⭐ 32 | 🐛 5 | 🌐 Elixir | 📅 2024-02-29
-* [AppSignal](https://github.com/appsignal/appsignal-elixir) ⭐ 292 | 🐛 23 | 🌐 Elixir | 📅 2026-10-16 - AppSignal
+* [AppSignal](https://github.com/appsignal/appsignal-elixir) ⭐ 292 | 🐛 24 | 🌐 Elixir | 📅 2026-10-16 - AppSignal
   Elixir integration package for gathering metrics, errors, and traces
 * [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 268 | 🐛 9 | 🌐 Elixir | 📅 2026-09-18 - New Relic's Elixir agent supports metrics, errors and distributed tracing
 * [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) ⚠️ Archived -
@@ -64,7 +64,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Errors logging
 
-* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 693 | 🐛 21 | 🌐 Elixir | 📅 2026-10-16 - official Elixir SDK for Sentry.io
+* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 693 | 🐛 22 | 🌐 Elixir | 📅 2026-10-19 - official Elixir SDK for Sentry.io
 * [Rollbar](https://github.com/ForzaElixir/rollbax) ⭐ 240 | 🐛 8 | 🌐 Elixir | 📅 2024-08-01 - exception tracking and logging from Elixir to Rollbar
 * [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) ⭐ 93 | 🐛 13 | 🌐 Elixir | 📅 2022-07-30 - Elixir interface to Bugsnag API
 * [Aibrakex](https://github.com/fazibear/airbrakex) ⭐ 29 | 🐛 6 | 🌐 Elixir | 📅 2023-11-15 - Elixir client for Airbrake
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

@@ -369,7 +369,7 @@
             "open_issues": 9,
             "owner": "newrelic",
             "repo": "elixir_agent",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "elixir",
               "open-source"
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:25:57.076Z",
+    "last_updated": "2026-10-25T14:55:40.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",

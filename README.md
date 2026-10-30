@@ -39,9 +39,9 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
   Elixir which supports DataDog APM. Integrations:
   * [Phoenix](https://github.com/spandex-project/spandex_phoenix) ⭐ 85 | 🐛 8 | 🌐 Elixir | 📅 2023-02-10
   * [Ecto](https://github.com/spandex-project/spandex_ecto) ⭐ 32 | 🐛 5 | 🌐 Elixir | 📅 2024-02-29
-* [AppSignal](https://github.com/appsignal/appsignal-elixir) ⭐ 292 | 🐛 37 | 🌐 Elixir | 📅 2026-10-23 - AppSignal
+* [AppSignal](https://github.com/appsignal/appsignal-elixir) ⭐ 292 | 🐛 38 | 🌐 Elixir | 📅 2026-10-23 - AppSignal
   Elixir integration package for gathering metrics, errors, and traces
-* [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 267 | 🐛 9 | 🌐 Elixir | 📅 2026-09-18 - New Relic's Elixir agent supports metrics, errors and distributed tracing
+* [New Relic](https://github.com/newrelic/elixir_agent) ⭐ 267 | 🐛 10 | 🌐 Elixir | 📅 2026-09-18 - New Relic's Elixir agent supports metrics, errors and distributed tracing
 * [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) ⚠️ Archived -
   implementation of Google's [OpenCensus.io](https://opencensus.io) tracing and
   monitoring with broad range of integrations:
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

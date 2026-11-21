@@ -12,7 +12,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Logging
 
-* [`lager`](https://github.com/erlang-lager/lager) ⭐ 1,129 | 🐛 52 | 🌐 Erlang | 📅 2025-08-26 - popular logging framework
+* [`lager`](https://github.com/erlang-lager/lager) ⭐ 1,130 | 🐛 52 | 🌐 Erlang | 📅 2025-08-26 - popular logging framework
   with broad features set
 * [`logger`](http://www.erlang.org/doc/man/logger.html) - OTP 21+ built-in
   pluggable logger module
@@ -64,7 +64,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Errors logging
 
-* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 692 | 🐛 14 | 🌐 Elixir | 📅 2026-11-20 - official Elixir SDK for Sentry.io
+* [Sentry](https://github.com/getsentry/sentry-elixir) ⭐ 693 | 🐛 15 | 🌐 Elixir | 📅 2026-11-21 - official Elixir SDK for Sentry.io
 * [Rollbar](https://github.com/ForzaElixir/rollbax) ⭐ 240 | 🐛 8 | 🌐 Elixir | 📅 2024-08-01 - exception tracking and logging from Elixir to Rollbar
 * [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) ⭐ 93 | 🐛 13 | 🌐 Elixir | 📅 2022-07-30 - Elixir interface to Bugsnag API
 * [Aibrakex](https://github.com/fazibear/airbrakex) ⭐ 29 | 🐛 6 | 🌐 Elixir | 📅 2023-11-15 - Elixir client for Airbrake
@@ -75,4 +75,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

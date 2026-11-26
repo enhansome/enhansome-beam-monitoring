@@ -677,7 +677,7 @@
             "open_issues": 37,
             "owner": "census-instrumentation",
             "repo": "opencensus-erlang",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "cloud",
               "erlang",
@@ -753,8 +753,8 @@
             "id": 22933562,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-11-25T10:34:54Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-25T21:04:21Z",
+            "open_issues": 19,
             "owner": "getsentry",
             "repo": "sentry-elixir",
             "stars": 693,
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:25:57.019Z",
+    "last_updated": "2026-11-26T20:04:59.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome BEAM monitoring libraries and resources",
